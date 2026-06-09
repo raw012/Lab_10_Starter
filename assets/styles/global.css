@@ -114,3 +114,6 @@ main>section {
   grid-template-areas: 'slider icon';
   grid-template-columns: 80% 15%;
 }
+body.blue {
+  background-color: blue;
+}
